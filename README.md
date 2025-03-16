@@ -1,8 +1,6 @@
 # Machine_Learning_Projects
 # 🚀 Machine Learning Projects Collection 📊🤖
 
-![Machine Learning](https://miro.medium.com/max/1400/1*pWkhKe87i7HChFasfmv5vQ.png)
-
 ## 📌 Table of Contents
 - [🚗 Car Price Prediction](#-car-price-prediction)
 - [🌸 Iris Dataset Classification & Clustering](#-iris-dataset-classification--clustering)
