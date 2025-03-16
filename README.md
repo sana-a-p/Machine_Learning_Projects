@@ -35,10 +35,6 @@ The dataset used: **CarPrice_Assignment.csv**, containing various car specificat
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
    ```
-2. Run the script:
-   ```bash
-   python car_price_prediction.py
-   ```
 
 ### 📈 Results
 - **Predicted vs. Actual Prices** 📉
@@ -71,10 +67,6 @@ Implemented models:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
    ```
-2. Run the script:
-   ```bash
-   python iris_classification.py
-   ```
 
 ### 📊 Results
 - **Classification Report & Accuracy Score** ✅
@@ -102,10 +94,6 @@ Analysis of property prices in Bangalore, detecting and removing outliers using:
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-2. Run the script:
-   ```bash
-   python house_price_analysis.py
-   ```
 
 ### 📈 Results
 - **Boxplots & Histograms for Outlier Detection** 🏡
@@ -130,10 +118,6 @@ Performing hypothesis testing on real-world data:
 1. Install dependencies:
    ```bash
    pip install scipy pandas numpy
-   ```
-2. Run the script:
-   ```bash
-   python hypothesis_testing.py
    ```
 
 ### 📊 Results
@@ -161,10 +145,6 @@ Preprocessing messy data by:
 1. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-2. Run the script:
-   ```bash
-   python data_preprocessing.py
    ```
 
 ### 📈 Results
